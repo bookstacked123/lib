@@ -1,0 +1,5 @@
+1. Add mirrored drive aka RAID.
+  - Connect two identical internal drives (No USB).
+  - Disk Management > Online > Initialize.
+  - Right-click your primary drive > Add Mirror.
+  - Select the second drive and confirm the conversion to "Dynamic Disks".
