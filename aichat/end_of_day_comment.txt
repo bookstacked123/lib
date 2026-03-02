@@ -1,0 +1,10 @@
+Q. Can you turn this into four days of full work in a engineer log book end of day comment?
+A ...
+Q. All of it please including the missing first part of the chat which started with finding a simple CSS placeholder for the video element.
+A ...
+Q. I need to highlight the success, failures and technical aspects in a humorous light tone.  Please expand and fill as needed with extra details you make up.
+A...
+Q. I'd like you to do the same for a two day workflow where the first day is iterating our current advanced filename structure to this template:
+audio.tyler_mcgill_unknownsoldier_bg.2026y_03m_01d_18h_07m.0.[avenmore,machine_music].mm8d1dq1t88yuukssh.mp3
+
+And the second day is writing the class to generate it in general.  See attached file.
