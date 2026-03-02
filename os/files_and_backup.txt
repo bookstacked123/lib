@@ -3,3 +3,12 @@
   - Disk Management > Online > Initialize.
   - Right-click your primary drive > Add Mirror.
   - Select the second drive and confirm the conversion to "Dynamic Disks".
+2. For maxiumum safety, follow the 3-2-1 rule: 3 copies of your data, on 2 different media types, with 1 copy off-site.
+3. Use robocopy.
+  - Create a batch file.
+  - Schedule the task.
+  - Start menu > Task Scheduler > Actions > Create Basic Task
+  - Name/Description (Daily Data Mirror), Trigger (Daily, 2:00 AM), Action (Start a program), Program/Script (.bat file), Finish.
+  - Properties > Run whether user is logged on or not. (Run while logged off)
+  - use the /L option (list only, Dry Run First)
+  - Permissions.  Ensure the account running the task has read and write access to the source and destination.
